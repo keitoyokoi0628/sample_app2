@@ -29,6 +29,7 @@ header {
   margin: 30px auto 0;
   text-align: center;
   border-top: solid 5px #000000;
+  background-image: url(/images/header.jpg);
 }
 
 header .headline {
